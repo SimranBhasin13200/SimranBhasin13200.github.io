@@ -1,12 +1,12 @@
 # Simran Bhasin
 
-### 📊 Data Analyst | Data Science Enthusiast | Power BI • Python • SQL • Excel
+### 📊 Data Analyst | Power BI Developer | Python & SQL Enthusiast | Data Science Learner
 
 Transforming raw data into meaningful insights through data analytics, visualization, machine learning, and business intelligence solutions.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/simranbhasin1320">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -23,8 +23,8 @@ Transforming raw data into meaningful insights through data analytics, visualiza
 * 🎓 BCA Graduate (2022)
 * 📊 Completed Data Analytics & Data Science Training
 * 💼 Completed Data Analytics Internship at Eagletfly Solutions
-* 📈 Skilled in Power BI, SQL, Python, Excel, Machine Learning, and Data Visualization
-* 🚀 Passionate about transforming data into actionable insights
+* 📈 Skilled in Power BI, SQL, Python, Excel, Machine Learning, Deep Learning, and NLP
+* 🚀 Passionate about solving business problems through data-driven insights
 * 🎯 Seeking opportunities as a Data Analyst, Business Analyst, or Data Science Associate
 
 ---
@@ -63,14 +63,14 @@ Transforming raw data into meaningful insights through data analytics, visualiza
 
 ### Project Overview
 
-Analyzed Netflix TV Shows dataset using Python to uncover trends, content distribution, ratings analysis, and genre-based insights.
+Analyzed Netflix TV Shows data using Python to discover content trends, genre popularity, ratings distribution, and other business insights through data visualization.
 
 ### Key Features
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
 * Content Distribution Analysis
-* Ratings & Genre Insights
+* Genre & Rating Insights
 * Data Visualization
 
 ### Tools
@@ -86,15 +86,15 @@ https://github.com/SimranBhasin13200/Netflix-TV-Shows-Analysis
 
 ### Project Overview
 
-Developed an interactive HR Analytics Dashboard in Power BI to analyze employee attrition, workforce trends, and key HR metrics.
+Built an interactive HR Analytics Dashboard in Power BI to analyze employee attrition, workforce demographics, and organizational performance metrics.
 
 ### Key Features
 
 * Employee Attrition Analysis
 * Department-wise Insights
 * Workforce Demographics
-* Interactive Filters
-* KPI Reporting
+* KPI Tracking
+* Interactive Dashboard Filters
 
 ### Tools
 
@@ -106,35 +106,35 @@ Developed an interactive HR Analytics Dashboard in Power BI to analyze employee 
 
 ### Project Overview
 
-Built a Machine Learning model to predict product sales using historical sales data and feature engineering techniques.
+Machine Learning project focused on predicting product sales using historical data and predictive modeling techniques.
 
 ### Key Features
 
 * Data Cleaning
 * Feature Engineering
-* Model Training
-* Sales Prediction
+* Model Building
+* Sales Forecasting
 * Performance Evaluation
 
 ### Tools
 
-`Python` • `Machine Learning` • `Scikit-Learn`
+`Python` • `Scikit-Learn` • `Machine Learning`
 
 ---
 
-## 🤖 NLP Projects
+## 🤖 NLP & Deep Learning Projects
 
 ### LSTM Project
 
-* Sequence Prediction
 * Deep Learning Model Development
+* Sequence Prediction
 * Text Processing
 
 ### Word2Vec Project
 
 * Word Embedding Generation
-* NLP Analysis
-* Semantic Similarity
+* Semantic Similarity Analysis
+* NLP Applications
 
 ### Tools
 
@@ -142,7 +142,7 @@ Built a Machine Learning model to predict product sales using historical sales d
 
 ---
 
-## 🐍 Python Projects
+## 🐍 Python Mini Projects
 
 * BMI Calculator
 * Password Generator
@@ -164,12 +164,12 @@ Built a Machine Learning model to predict product sales using historical sales d
 
 * Data Cleaning & Transformation
 * SQL Query Development
-* Dashboard Creation
+* Dashboard Creation in Power BI
 * Data Visualization
 * Business Reporting
-* Data Analysis
+* Analytical Problem Solving
 
-### Technologies
+### Technologies Used
 
 `Power BI` • `SQL` • `Python` • `Excel`
 
@@ -179,15 +179,19 @@ Built a Machine Learning model to predict product sales using historical sales d
 
 ## Bachelor of Computer Applications (BCA)
 
-**Completed: 2022**
+**Completed:** 2022
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Achievements
 
 * Data Analytics Course
 * Data Science Course
 * Data Analytics Internship – Eagletfly Solutions
+* Developed Interactive Power BI Dashboards
+* Built Netflix Data Analysis Project
+* Built HR Analytics Dashboard
+* Developed Machine Learning & NLP Projects
 
 ---
 
@@ -199,6 +203,7 @@ Built a Machine Learning model to predict product sales using historical sales d
 * Deep Learning
 * NLP
 * Data Storytelling
+* Business Intelligence
 
 ---
 
@@ -224,7 +229,7 @@ Built a Machine Learning model to predict product sales using historical sales d
 
 <p align="center">
 
-<a href="mailto:simransharma5699382@gmail.com">📧 Email</a> • <a href="https://github.com/SimranBhasin13200">💻 GitHub</a> • <a href="YOUR_LINKEDIN_URL">🔗 LinkedIn</a>
+<a href="mailto:simransharma5699382@gmail.com">📧 Email</a> • <a href="https://github.com/SimranBhasin13200">💻 GitHub</a> • <a href="https://www.linkedin.com/in/simranbhasin1320">🔗 LinkedIn</a>
 
 </p>
 
@@ -232,6 +237,6 @@ Built a Machine Learning model to predict product sales using historical sales d
 
 # ⚡ Fun Fact
 
-> I enjoy turning raw datasets into meaningful insights and building dashboards that support data-driven business decisions.
+> I enjoy transforming raw datasets into meaningful insights and building dashboards that support data-driven business decisions.
 
-⭐ Feel free to explore my projects and connect with me.
+⭐ Feel free to explore my projects and connect with me!
