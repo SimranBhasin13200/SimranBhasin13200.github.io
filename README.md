@@ -22,10 +22,10 @@ Transforming raw data into meaningful insights through data analytics, visualiza
 
 * 🎓 BCA Graduate (2022)
 * 📊 Completed Data Analytics & Data Science Training
-* 💼 Completed Internship at Eagletfly Solutions
-* 📈 Skilled in Power BI, SQL, Python, Excel, Machine Learning & Data Visualization
+* 💼 Completed Data Analytics Internship at Eagletfly Solutions
+* 📈 Skilled in Power BI, SQL, Python, Excel, Machine Learning, and Data Visualization
 * 🚀 Passionate about transforming data into actionable insights
-* 🎯 Seeking opportunities as a Data Analyst / Business Analyst / Data Science Associate
+* 🎯 Seeking opportunities as a Data Analyst, Business Analyst, or Data Science Associate
 
 ---
 
@@ -51,6 +51,10 @@ Transforming raw data into meaningful insights through data analytics, visualiza
 
 `Git` • `GitHub` • `VS Code` • `Google Colab`
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+</p>
+
 ---
 
 # 📂 Featured Projects
@@ -61,9 +65,17 @@ Transforming raw data into meaningful insights through data analytics, visualiza
 
 Analyzed Netflix TV Shows dataset using Python to uncover trends, content distribution, ratings analysis, and genre-based insights.
 
+### Key Features
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Content Distribution Analysis
+* Ratings & Genre Insights
+* Data Visualization
+
 ### Tools
 
-`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
+`Python` • `Pandas` • `NumPy` • `Matplotlib`
 
 🔗 Repository:
 https://github.com/SimranBhasin13200/Netflix-TV-Shows-Analysis
@@ -94,13 +106,13 @@ Developed an interactive HR Analytics Dashboard in Power BI to analyze employee 
 
 ### Project Overview
 
-Machine Learning project that predicts product sales using historical sales data and various predictive modeling techniques.
+Built a Machine Learning model to predict product sales using historical sales data and feature engineering techniques.
 
 ### Key Features
 
 * Data Cleaning
 * Feature Engineering
-* Model Building
+* Model Training
 * Sales Prediction
 * Performance Evaluation
 
@@ -115,12 +127,12 @@ Machine Learning project that predicts product sales using historical sales data
 ### LSTM Project
 
 * Sequence Prediction
-* Deep Learning Implementation
+* Deep Learning Model Development
 * Text Processing
 
 ### Word2Vec Project
 
-* Word Embeddings
+* Word Embedding Generation
 * NLP Analysis
 * Semantic Similarity
 
@@ -146,13 +158,13 @@ Machine Learning project that predicts product sales using historical sales data
 
 ### Eagletfly Solutions
 
-**Duration:** Data Analytics & Data Science Internship
+**Duration:** 6 Months
 
 ### Responsibilities
 
 * Data Cleaning & Transformation
-* SQL Query Writing
-* Dashboard Development
+* SQL Query Development
+* Dashboard Creation
 * Data Visualization
 * Business Reporting
 * Data Analysis
@@ -167,7 +179,7 @@ Machine Learning project that predicts product sales using historical sales data
 
 ## Bachelor of Computer Applications (BCA)
 
-Completed in **2022**
+**Completed: 2022**
 
 ---
 
@@ -181,29 +193,45 @@ Completed in **2022**
 
 # 🌱 Currently Learning
 
-* Advanced Power BI
+* Advanced SQL
+* Power BI DAX
 * Machine Learning
 * Deep Learning
 * NLP
-* Advanced SQL
 * Data Storytelling
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SimranBhasin13200&show_icons=true&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SimranBhasin13200&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SimranBhasin13200&theme=tokyonight&margin-w=10"/>
+
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-📧 Email: [simransharma5699382@gmail.com](mailto:simransharma5699382@gmail.com)
+<p align="center">
 
-💻 GitHub:
-https://github.com/SimranBhasin13200
+<a href="mailto:simransharma5699382@gmail.com">📧 Email</a> • <a href="https://github.com/SimranBhasin13200">💻 GitHub</a> • <a href="YOUR_LINKEDIN_URL">🔗 LinkedIn</a>
 
-🔗 LinkedIn:
-(Add Your LinkedIn Profile URL)
+</p>
 
 ---
 
 # ⚡ Fun Fact
 
-> I enjoy solving business problems with data and creating dashboards that support data-driven decision making.
+> I enjoy turning raw datasets into meaningful insights and building dashboards that support data-driven business decisions.
 
 ⭐ Feel free to explore my projects and connect with me.
