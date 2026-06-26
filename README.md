@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Simran Bhasin
 
 <p align="center">
-  <img src="https://i.imgur.com/REPLACE_WITH_YOUR_BANNER.png" width="100%" alt="Simran Bhasin Banner">
+  <img src="./banner.png" width="100%" alt="Simran Bhasin Banner">
 </p>
 
 <p align="center">
