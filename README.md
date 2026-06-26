@@ -29,7 +29,7 @@ Transforming raw data into meaningful insights through analytics, interactive da
 # 🚀 About Me
 
 - 🎓 BCA Graduate (2022)
-- 📊 Aspiring Data Analyst passionate about transforming data into actionable insights
+- 📊 Data Analyst passionate about transforming data into actionable insights
 - 💼 Completed Data Analyst & Data Science Training at Eagletfly Solutions
 - 📈 Skilled in Power BI, SQL, Python, Excel, Machine Learning, Deep Learning & Data Visualization
 - 🚀 Developed real-world analytics and machine learning projects
