@@ -1,4 +1,4 @@
-# Simran Bhasin
+# Hi there 👋 I'm Simran Bhasin
 
 ### 📊 Aspiring Data Analyst | Power BI • SQL • Python • Excel • Machine Learning
 
@@ -14,7 +14,7 @@ Transforming raw data into meaningful insights through analytics, interactive da
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://YOUR-PORTFOLIO-WEBSITE">
+<a href="https://github.com/SimranBhasin13200/SimranBhasin13200.github.io">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
@@ -151,10 +151,11 @@ Graduated: 2022
 
 # 🌐 Connect With Me
 
-- 📧 Email: YOUR_EMAIL  
+- 📧 Email: simransharma5699382@gmail.com 
 - 💻 GitHub: https://github.com/SimranBhasin13200  
 - 🔗 LinkedIn: https://www.linkedin.com/in/simranbhasin1320  
-- 🌐 Portfolio: YOUR-PORTFOLIO-WEBSITE  
+- 🌐 Portfolio:https://github.com/SimranBhasin13200/SimranBhasin13200.github.io
+
 
 ---
 
