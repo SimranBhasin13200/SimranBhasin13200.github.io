@@ -202,12 +202,7 @@ Graduated in **2022**
 
 # 🌐 Connect With Me
 
-<p align="center">
-
-<a href="mailto:simransharma5699382@gmail.com">📧 Email</a> • <a href="https://github.com/SimranBhasin13200">💻 GitHub</a> • <a href="YOUR_LINKEDIN_PROFILE">🔗 LinkedIn</a>
-
-</p>
-
+<p align="center"> <a href="mailto:simransharma5699382@gmail.com">📧 Email</a> • <a href="https://github.com/SimranBhasin13200">💻 GitHub</a> • <a href="https://www.linkedin.com/in/simranbhasin1320">🔗 LinkedIn</a> </p>
 ---
 
 # 💡 Fun Fact
