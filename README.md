@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Simran Bhasin
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+Enthusiast;Machine+Learning+Learner;Turning+Data+Into+Business+Insights" />
+  <img src="https://i.imgur.com/REPLACE_WITH_YOUR_BANNER.png" width="100%" alt="Simran Bhasin Banner">
 </p>
 
 <p align="center">
