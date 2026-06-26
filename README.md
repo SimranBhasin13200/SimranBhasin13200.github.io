@@ -1,20 +1,8 @@
-# Hi there 👋, I'm Simran Bhasin
+# Simran Bhasin
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+Enthusiast;Machine+Learning+Learner;Turning+Data+Into+Business+Insights" />
-</p>
+### 📊 Data Analyst | Power BI Developer | Python & SQL Enthusiast | Data Science Learner
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SimranBhasin13200&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<h3 align="center">
-📊 Data Analyst | Power BI • SQL • Python • Machine Learning
-</h3>
-
-<p align="center">
-Transforming raw data into actionable business insights through analytics, dashboards, visualization, and predictive modeling.
-</p>
+Transforming raw data into meaningful insights through data analytics, visualization, machine learning, and business intelligence solutions.
 
 <p align="center">
 
@@ -26,54 +14,45 @@ Transforming raw data into actionable business insights through analytics, dashb
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:simransharma5699382@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
 # 🚀 About Me
 
-Hi, I'm **Simran Bhasin**, a passionate Data Analyst with a strong interest in Data Analytics, Business Intelligence, Machine Learning, and Data Visualization.
-
-✔ BCA Graduate (2022)
-
-✔ Completed Data Analytics & Data Science Training
-
-✔ Completed 6-Month Data Analytics Internship at Eagletfly Solutions
-
-✔ Skilled in Power BI, SQL, Python, Excel, Machine Learning, Deep Learning, and NLP
-
-✔ Experienced in building dashboards, analytical reports, and predictive models
-
-✔ Passionate about solving real-world business problems using data
-
-✔ Actively seeking opportunities in Data Analytics, Business Intelligence, and Data Science
+* 🎓 BCA Graduate (2022)
+* 📊 Completed Data Analytics & Data Science Training
+* 💼 Completed Data Analytics Internship at Eagletfly Solutions
+* 📈 Skilled in Power BI, SQL, Python, Excel, Machine Learning, Deep Learning, and NLP
+* 🚀 Passionate about solving business problems through data-driven insights
+* 🎯 Seeking opportunities as a Data Analyst, Business Analyst, or Data Science Associate
 
 ---
 
-# 🛠 Technical Skills
+# 🛠 Tech Stack
 
-| Category         | Skills                                 |
-| ---------------- | -------------------------------------- |
-| Analytics & BI   | Power BI, Excel, Dashboard Development |
-| Database         | SQL, MySQL                             |
-| Programming      | Python                                 |
-| Data Analysis    | Pandas, NumPy                          |
-| Visualization    | Matplotlib, Power BI                   |
-| Machine Learning | Scikit-Learn                           |
-| Deep Learning    | TensorFlow, Keras                      |
-| NLP              | LSTM, Word2Vec                         |
-| Tools            | Git, GitHub, VS Code, Google Colab     |
+### Analytics & Visualization
 
----
+`Power BI` • `Excel` • `Dashboard Development`
 
-# ⚙️ Technologies & Tools
+### Database & Querying
+
+`MySQL` • `SQL`
+
+### Programming
+
+`Python`
+
+### Data Science & Machine Learning
+
+`Machine Learning` • `Deep Learning` • `NLP`
+
+### Tools
+
+`Git` • `GitHub` • `VS Code` • `Google Colab`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
 </p>
 
 ---
@@ -84,26 +63,21 @@ Hi, I'm **Simran Bhasin**, a passionate Data Analyst with a strong interest in D
 
 ### Project Overview
 
-Analyzed Netflix TV Shows data using Python to uncover trends, content distribution patterns, rating analysis, and genre insights through Exploratory Data Analysis (EDA).
+Analyzed Netflix TV Shows data using Python to discover content trends, genre popularity, ratings distribution, and other business insights through data visualization.
 
-### Key Highlights
+### Key Features
 
-✅ Data Cleaning & Preprocessing
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Content Distribution Analysis
+* Genre & Rating Insights
+* Data Visualization
 
-✅ Exploratory Data Analysis
-
-✅ Genre Distribution Analysis
-
-✅ Rating Analysis
-
-✅ Content Trend Visualization
-
-### Technologies Used
+### Tools
 
 `Python` • `Pandas` • `NumPy` • `Matplotlib`
 
 🔗 Repository:
-
 https://github.com/SimranBhasin13200/Netflix-TV-Shows-Analysis
 
 ---
@@ -112,21 +86,17 @@ https://github.com/SimranBhasin13200/Netflix-TV-Shows-Analysis
 
 ### Project Overview
 
-Developed an interactive HR Analytics Dashboard using Power BI to analyze employee attrition, workforce demographics, and organizational KPIs.
+Built an interactive HR Analytics Dashboard in Power BI to analyze employee attrition, workforce demographics, and organizational performance metrics.
 
-### Key Highlights
+### Key Features
 
-✅ Employee Attrition Analysis
+* Employee Attrition Analysis
+* Department-wise Insights
+* Workforce Demographics
+* KPI Tracking
+* Interactive Dashboard Filters
 
-✅ Department-wise Performance
-
-✅ Workforce Demographics
-
-✅ KPI Monitoring
-
-✅ Interactive Dashboard
-
-### Technologies Used
+### Tools
 
 `Power BI` • `Excel`
 
@@ -136,21 +106,17 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze employ
 
 ### Project Overview
 
-Built a Machine Learning model to predict sales using historical retail data and advanced feature engineering techniques.
+Machine Learning project focused on predicting product sales using historical data and predictive modeling techniques.
 
-### Key Highlights
+### Key Features
 
-✅ Data Cleaning
+* Data Cleaning
+* Feature Engineering
+* Model Building
+* Sales Forecasting
+* Performance Evaluation
 
-✅ Feature Engineering
-
-✅ Predictive Modeling
-
-✅ Sales Forecasting
-
-✅ Model Evaluation
-
-### Technologies Used
+### Tools
 
 `Python` • `Scikit-Learn` • `Machine Learning`
 
@@ -160,17 +126,17 @@ Built a Machine Learning model to predict sales using historical retail data and
 
 ### LSTM Project
 
+* Deep Learning Model Development
 * Sequence Prediction
 * Text Processing
-* Deep Learning Model Development
 
 ### Word2Vec Project
 
 * Word Embedding Generation
 * Semantic Similarity Analysis
-* Natural Language Processing
+* NLP Applications
 
-### Technologies Used
+### Tools
 
 `Python` • `TensorFlow` • `Keras` • `NLP`
 
@@ -178,24 +144,15 @@ Built a Machine Learning model to predict sales using historical retail data and
 
 ## 🐍 Python Mini Projects
 
-### Projects Included
-
 * BMI Calculator
 * Password Generator
 * Dice Rolling Simulator
 * Digital Clock
 * To-Do List Application
 
-### Skills Demonstrated
-
-* Python Fundamentals
-* Logic Building
-* GUI Concepts
-* Problem Solving
-
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
 ## Data Analytics Intern
 
@@ -205,9 +162,9 @@ Built a Machine Learning model to predict sales using historical retail data and
 
 ### Responsibilities
 
-* Data Cleaning and Transformation
+* Data Cleaning & Transformation
 * SQL Query Development
-* Power BI Dashboard Development
+* Dashboard Creation in Power BI
 * Data Visualization
 * Business Reporting
 * Analytical Problem Solving
@@ -222,81 +179,49 @@ Built a Machine Learning model to predict sales using historical retail data and
 
 ## Bachelor of Computer Applications (BCA)
 
-Completed in **2022**
+**Completed:** 2022
 
 ---
 
 # 🏆 Certifications & Achievements
 
-🏅 Data Analytics Certification
-
-🏅 Data Science Certification
-
-🏅 Data Analytics Internship – Eagletfly Solutions
-
-🏅 Built Interactive Power BI Dashboards
-
-🏅 Developed Machine Learning Models
-
-🏅 Completed NLP & Deep Learning Projects
-
-🏅 Published Analytics Projects on GitHub
-
----
-
-# 🎯 Current Focus
-
-🔹 Advanced SQL
-
-🔹 Power BI DAX
-
-🔹 Machine Learning
-
-🔹 Deep Learning
-
-🔹 NLP Applications
-
-🔹 Business Intelligence
-
-🔹 Data Storytelling
-
-🔹 End-to-End Analytics Projects
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimranBhasin13200&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranBhasin13200&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SimranBhasin13200&theme=tokyonight"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-[![Simran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranBhasin13200\&theme=tokyo-night)](https://github.com/SimranBhasin13200)
+* Data Analytics Course
+* Data Science Course
+* Data Analytics Internship – Eagletfly Solutions
+* Developed Interactive Power BI Dashboards
+* Built Netflix Data Analysis Project
+* Built HR Analytics Dashboard
+* Developed Machine Learning & NLP Projects
 
 ---
 
 # 🌱 Currently Learning
 
-* Advanced SQL Optimization
-* Power BI DAX Functions
-* Machine Learning Algorithms
+* Advanced SQL
+* Power BI DAX
+* Machine Learning
 * Deep Learning
-* Natural Language Processing
+* NLP
 * Data Storytelling
 * Business Intelligence
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SimranBhasin13200&show_icons=true&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SimranBhasin13200&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SimranBhasin13200&theme=tokyonight&margin-w=10"/>
+
+</p>
 
 ---
 
@@ -304,34 +229,14 @@ Completed in **2022**
 
 <p align="center">
 
-<a href="mailto:simransharma5699382@gmail.com">
-📧 Email
-</a>
-
-•
-
-<a href="https://github.com/SimranBhasin13200">
-💻 GitHub
-</a>
-
-•
-
-<a href="https://www.linkedin.com/in/simranbhasin1320">
-🔗 LinkedIn
-</a>
+<a href="mailto:simransharma5699382@gmail.com">📧 Email</a> • <a href="https://github.com/SimranBhasin13200">💻 GitHub</a> • <a href="https://www.linkedin.com/in/simranbhasin1320">🔗 LinkedIn</a>
 
 </p>
 
 ---
 
-# 💡 Fun Fact
+# ⚡ Fun Fact
 
-> I enjoy transforming raw datasets into meaningful insights and building interactive dashboards that help businesses make data-driven decisions.
+> I enjoy transforming raw datasets into meaningful insights and building dashboards that support data-driven business decisions.
 
----
-
-### ⭐ Thanks for visiting my profile!
-
-If you find my projects interesting, feel free to connect, collaborate, and explore my repositories.
-
-🚀 Always learning. Always building. Always growing.
+⭐ Feel free to explore my projects and connect with me!
