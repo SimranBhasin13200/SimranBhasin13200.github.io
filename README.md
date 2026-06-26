@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | Power BI • SQL • Python • Machine Learning
 
-Transforming raw data into meaningful insights through data analysis, visualization, and machine learning.
+Transforming raw data into actionable business insights through analytics, dashboards, visualization, and predictive modeling.
 
 <p align="center">
 
