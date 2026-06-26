@@ -224,7 +224,8 @@ Built a Machine Learning model to predict product sales using historical sales d
 
 <p align="center">
 
-<a href="mailto:simransharma5699382@gmail.com">📧 Email</a> • <a href="https://github.com/SimranBhasin13200">💻 GitHub</a> • <a href="YOUR_LINKEDIN_URL">🔗 LinkedIn</a>
+<a href="mailto:simransharma5699382@gmail.com">📧 Email</a> • <a href="https://github.com/SimranBhasin13200">💻 GitHub</a> • <a href="YOUR_LINKEDIN_URL">🔗 LinkedIn</a> • <a href="https://simranbhasin13200.github.io/">🌐 Portfolio</a> •<a href= "YOUR_RESUME_LINK"> 📄Resume</a>
+<
 
 </p>
 
