@@ -1,3 +1,4 @@
+# Simran Bhasin
 # Hi there 👋 I'm Simran Bhasin
 
 ### 📊 Data Analyst | Power BI • SQL • Python • Excel • Machine Learning
