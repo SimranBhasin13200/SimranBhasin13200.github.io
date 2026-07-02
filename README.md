@@ -1,6 +1,8 @@
-### 📊 Data Analyst | Power BI • SQL • Python • Excel • Machine Learning
+# Hi there, I'm Simran Bhasin 👋
 
-Transforming raw data into meaningful insights through analytics, interactive dashboards, and machine learning solutions.
+### 📊 Aspiring Data Analyst | Power BI • SQL • Python • Excel
+
+Transforming raw data into meaningful business insights through analytics, interactive dashboards, and data-driven solutions.
 
 <p align="center">
 
@@ -16,7 +18,8 @@ Transforming raw data into meaningful insights through analytics, interactive da
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://YOUR-RESUME-LINK">
+<!-- Replace # with your Resume Link -->
+<a href="#">
 <img src="https://img.shields.io/badge/Resume-6A1B9A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -24,71 +27,123 @@ Transforming raw data into meaningful insights through analytics, interactive da
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🎓 BCA Graduate (2022)
-- 📊 Data Analyst passionate about transforming data into actionable insights
-- 💼 Completed Data Analyst & Data Science Training at Eagletfly Solutions
-- 📈 Skilled in Power BI, SQL, Python, Excel, Machine Learning, Deep Learning & Data Visualization
-- 🚀 Developed real-world analytics and machine learning projects
-- 🎯 Actively seeking opportunities as a Data Analyst / Business Intelligence Analyst
+- 🎓 Bachelor of Computer Applications (BCA) Graduate (2022)
+- 📊 Aspiring Data Analyst passionate about transforming data into actionable insights.
+- 💼 Completed **Data Analyst & Data Science Training** at **Eagletfly Solutions**.
+- 📈 Skilled in **Power BI, SQL, Python, Excel, Pandas, NumPy, Matplotlib, and Seaborn**.
+- 📊 Experienced in Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Development, and Reporting.
+- 🌱 Currently learning **Machine Learning, Power BI DAX, and Advanced SQL**.
+- 🎯 Seeking opportunities as a **Data Analyst** or **Business Intelligence Analyst**.
 
 ---
 
 # 🛠 Tech Stack
 
-### 📊 Analytics & Visualization
-`Power BI` • `Excel` • `Dashboard Design`
+<p align="center">
 
-### 🗄 Database
-`MySQL` • `SQL`
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+### 📊 Analytics & Visualization
+
+- Power BI
+- Microsoft Excel
+- Dashboard Design
+- Data Visualization
 
 ### 💻 Programming
-`Python`
+
+- Python
+
+### 🗄 Database
+
+- SQL
+- MySQL
+
+### 📚 Python Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ### 🤖 Machine Learning
-`Scikit-learn` • `TensorFlow` • `Keras`
 
-### 📚 Libraries
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
-
-### 🛠 Tools
-`Git` • `GitHub` • `VS Code` • `Google Colab`
+- Scikit-learn
+- TensorFlow
+- Keras
 
 ---
 
 # 📂 Featured Projects
 
-## 📊 Netflix TV Shows Analysis
+## 🎬 Netflix TV Shows Analysis
 
-Analyzed Netflix TV Shows dataset using Python to identify trends in content, genres, ratings, release years, and countries.
+Analyzed Netflix TV Shows dataset using Python to discover insights about genres, ratings, countries, and release trends.
 
-**Tools:** Python • Pandas • Matplotlib • Seaborn  
-🔗 https://github.com/SimranBhasin13200/Netflix-TV-Shows-Analysis
+**Tools:** Python • Pandas • Matplotlib • Seaborn
+
+🔗 Repository
+
+https://github.com/SimranBhasin13200/Netflix-TV-Shows-Analysis
 
 ---
 
-## 👨‍💼 HR Analytics Dashboard
+## 📊 HR Analytics Dashboard
 
-Designed a Power BI dashboard to analyze employee attrition and workforce insights.
+Developed an interactive Power BI dashboard to analyze employee attrition and workforce insights.
 
-**Tools:** Power BI • Excel  
+**Tools:** Power BI • Excel
+
+---
+
+## 💱 Currency Converter
+
+A Python application that converts one currency into another using predefined exchange rates.
+
+### Features
+
+- Multiple Currency Support
+- Accurate Conversion
+- Input Validation
+- Easy-to-use Interface
+
+**Tools:** Python
+
+---
+
+## 🏦 Bank Management System
+
+A Python console application for managing bank accounts and transactions.
+
+### Features
+
+- Create Account
+- Deposit Money
+- Withdraw Money
+- Check Balance
+- Transaction Management
+
+**Tools:** Python
 
 ---
 
 ## 🛒 BigMart Sales Prediction
 
-Built a machine learning model to predict retail sales using regression techniques.
+Built a machine learning model to predict retail sales using regression algorithms.
 
-**Tools:** Python • Scikit-learn • Pandas  
+**Tools:** Python • Scikit-learn • Pandas
 
 ---
 
-## 🤖 NLP – LSTM & Word2Vec
+## 🤖 NLP using LSTM & Word2Vec
 
-Worked on NLP models using LSTM and Word2Vec for text analysis.
+Implemented Natural Language Processing models using LSTM and Word2Vec for text classification and sequence analysis.
 
-**Tools:** Python • TensorFlow • Keras • NLTK  
+**Tools:** Python • TensorFlow • Keras • NLTK
 
 ---
 
@@ -96,30 +151,34 @@ Worked on NLP models using LSTM and Word2Vec for text analysis.
 
 ## Data Analyst & Data Science Trainee
 
-Eagletfly Solutions
+**Eagletfly Solutions**
 
-- Data Cleaning & Analysis
+### Responsibilities
+
+- Data Cleaning
+- Data Analysis
 - SQL Querying
-- Power BI Dashboard Development
+- Dashboard Development
 - Machine Learning Projects
+- Data Visualization
 
 ---
 
-# 📚 Education
+# 🎓 Education
 
 ## Bachelor of Computer Applications (BCA)
 
-Graduated: 2022
+**Graduated:** 2022
 
 ---
 
-# 🏆 Certifications
+# 📜 Certifications
 
-- Data Analyst Training – Eagletfly Solutions
-- Power BI Dashboard Development
-- SQL for Data Analysis
-- Python Programming
-- Machine Learning Projects
+- 📜 Data Analyst & Data Science Training – Eagletfly Solutions
+- 📜 Power BI Dashboard Development
+- 📜 SQL for Data Analysis
+- 📜 Python Programming
+- 📜 Machine Learning Fundamentals
 
 ---
 
@@ -137,28 +196,74 @@ Graduated: 2022
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SimranBhasin13200&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SimranBhasin13200&show_icons=true&theme=tokyonight"/>
 
-<br>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SimranBhasin13200&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SimranBhasin13200&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranBhasin13200&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
-- 📧 Email: simransharma5699382@gmail.com 
-- 💻 GitHub: https://github.com/SimranBhasin13200  
-- 🔗 LinkedIn: https://www.linkedin.com/in/simranbhasin1320  
-- 🌐 Portfolio:https://github.com/SimranBhasin13200/SimranBhasin13200.github.io
+<p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=SimranBhasin13200&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SimranBhasin13200&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+**simransharma5699382@gmail.com**
+
+💻 **GitHub**
+
+https://github.com/SimranBhasin13200
+
+🔗 **LinkedIn**
+
+https://www.linkedin.com/in/simranbhasin1320
+
+🌐 **Portfolio**
+
+https://github.com/SimranBhasin13200/SimranBhasin13200.github.io
+
+---
+
+# 💡 Quote
+
+> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 ---
 
 # ⚡ Fun Fact
 
-> I enjoy transforming raw datasets into interactive dashboards and predictive models that solve real-world business problems.
+I enjoy transforming raw datasets into interactive dashboards and predictive models that help solve real-world business problems.
 
-⭐ Thanks for visiting my GitHub profile!
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories and connect with me.
+
+![](https://komarev.com/ghpvc/?username=SimranBhasin13200&style=for-the-badge&color=blue)
+
+</p>
